@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/apipluspower/gen-translation/util"
+	"github.com/peakier/generator-packages/util"
 )
 
 func AppPath(inputDir string, className string, outputFile string) error {

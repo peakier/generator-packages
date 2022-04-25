@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/apipluspower/gen-translation/internal/generator"
+	"github.com/peakier/generator-packages/internal/generator"
 	"github.com/urfave/cli/v2"
 )
 

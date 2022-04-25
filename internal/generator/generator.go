@@ -5,8 +5,8 @@ import (
 	"log"
 	"path/filepath"
 
-	"github.com/apipluspower/gen-translation/internal/builders"
-	"github.com/apipluspower/gen-translation/internal/parsers"
+	"github.com/peakier/generator-packages/internal/builders"
+	"github.com/peakier/generator-packages/internal/parsers"
 	"gopkg.in/yaml.v2"
 )
 

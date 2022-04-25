@@ -9,7 +9,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/apipluspower/gen-translation/util"
+	"github.com/peakier/generator-packages/util"
 	"github.com/stoewer/go-strcase"
 )
 
